@@ -19,7 +19,7 @@ Pequeno programa para a geração de números aleatórios para o trabalho da dis
 </p>
 
 <p align="justify">
-<span style="text-color:red">Observação:</span> Note no código que o arquivo input.data está sendo direcionado para uma pasta chamada dataset. Ao clonar o repositório ou baixar o zip essa pasta não é contemplada como parte da estrutura da solução, então, não esqueça de criá-la antes de iniciar a execução. Caso contrário, um erro de arquivo não encontrado surgirá como retorno.
+<span style="background-color:red;">Observação:</span> Note no código que o arquivo input.data está sendo direcionado para uma pasta chamada dataset. Ao clonar o repositório ou baixar o zip essa pasta não é contemplada como parte da estrutura da solução, então, não esqueça de criá-la antes de iniciar a execução. Caso contrário, um erro de arquivo não encontrado surgirá como retorno.
 </p>
 
 
