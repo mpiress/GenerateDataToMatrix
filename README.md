@@ -18,6 +18,10 @@
 Pequeno programa para a geração de números aleatórios para o trabalho da disciplina de Estrutura de Dados I. A partir desse, o aluno pode produzir matrizes quadradas de qualquer tamanho. A configuração do tamanho da matriz é feita no arquivo mat.h, redefinindo as variáveis de ambiente. Além disso, a quantidade de matrizes a serem produzidas deve ser estipulada no arquivo main.c através da variável <i>number_of_matrix</i>.
 </p>
 
+<p align="justify">
+<div style="color:red">Observação:</div> Note no código que o arquivo input.data está sendo direcionado para uma pasta chamada dataset. Ao clonar o repositório ou baixar o zip essa pasta não é contemplada como parte da estrutura da solução, então, não esqueça de criá-la antes de iniciar a execução. Caso contrário, um erro de arquivo não encontrado surgirá como retorno.
+</p>
+
 
 # Compilação e Execução
 
